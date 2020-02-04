@@ -1,0 +1,81 @@
+#encabezado {
+    position:fixed;
+    z-index:1;
+    height:45px;
+    width:95%;
+    border:1px solid black;
+    border-radius:5px;
+    background-color:#F4A460;
+    margin-top:-15px;
+
+    }
+.izquierda {
+    position:relative;
+    height:1050px;
+    width:40%;
+    background-color:#FFEBCD;
+    float:left;
+    margin-top:40px;
+    margin-bottom:5px;
+}
+.derecha {
+    position:relative;
+    height:1050px;
+    width:57%;
+    background-color:#FFEBCD;
+    float:right;
+    margin-top:40px;
+    margin-bottom:5px;
+    
+}
+div {
+    border-radius:7px
+}
+
+.iconos{
+    position:relative;
+    height:15px;
+    width:15px;    
+}
+#nom{
+    float:left;
+    margin-top:10px;
+    padding-top:5px;
+    margin-left:5px;
+    font-size:26px;
+    font-family:Impact;
+    color:#E0FFFF
+}
+
+
+#telefono{
+    float:right;
+    font-size:16px;    
+    margin-right:5px;
+    margin-top:20px;
+    padding-top:5px;
+    color:#E0FFFF
+}
+#pie {
+    position:relative;
+    height:50px;
+    background-color:#87CEFA;
+    clear:both;
+    
+}
+.empresa{
+    color:#0000FF
+}
+.sectorprofesional{
+    color:#0066cc	
+}
+#pie p{
+    text-align:center;
+    padding-top:5px;
+}
+
+h1 {
+    font-size:16px;
+    text-decoration:underline;
+    
+}
